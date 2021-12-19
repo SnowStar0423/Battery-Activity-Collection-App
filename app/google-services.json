@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392280278358",
+    "project_id": "battdata-cd04a",
+    "storage_bucket": "battdata-cd04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392280278358:android:7e6e00908c18d9db2502f7",
+        "android_client_info": {
+          "package_name": "com.batt.data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392280278358-0kc55agi19sdl2qlg8dg7bo9594i2rmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYuR577l1FdmxBL44_SVO6ZhDNbaCl7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392280278358-0kc55agi19sdl2qlg8dg7bo9594i2rmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

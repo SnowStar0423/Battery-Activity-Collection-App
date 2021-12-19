@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">BattData</string>
+    <string name="time_since_boot">Time Since Boot:  </string>
+    <string name="battery_technology">Battery Technology:  </string>
+    <string name="battery_temperature">Battery Temperature:  </string>
+    <string name="battery_voltage">Battery Voltage:  </string>
+    <string name="battery_health">Battery Health:  </string>
+    <string name="battery_scale">Battery Scale:  </string>
+    <string name="battery_level">Battery Level:  </string>
+    <string name="power_plug">Power Plug:  </string>
+    <string name="battery_status">Battery Status:  </string>
+
+    <string name="charging">Charging</string>
+    <string name="not_charging">Not Charging</string>
+    <string name="ac_power">AC Power</string>
+    <string name="usb_plugged">USB Plugged</string>
+    <string name="cold">Cold</string>
+    <string name="dead">Dead</string>
+    <string name="good">Good</string>
+    <string name="overheat">Overheat</string>
+    <string name="over_voltage">Over Voltage</string>
+    <string name="not_plugged">Not Plugged</string>
+    <string name="unknown">Unknown Health</string>
+    <string name="unspecified_failure">Unspecified failure</string>
+    <string name="wireless_charging">Wireless Charging</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="longitude">Longitude:</string>
+
+    <string name="track">Track Activity</string>
+    <string name="percentage">%1$d%%</string>
+    <string name="bicycle">On a bicycle</string>
+    <string name="foot">On foot</string>
+    <string name="running">Running</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="unknown_activity">Unknown activity</string>
+    <string name="vehicle">In a vehicle</string>
+    <string name="walking">Walking</string>
+    <string name="excel_export">Excel Export</string>
+
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="don_t_you_have_an_account_yet">Don\'t you have an account yet?</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already registered</string>
+    <string name="login_me">Login Me!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="log_in">Log In</string>
+
+</resources>
